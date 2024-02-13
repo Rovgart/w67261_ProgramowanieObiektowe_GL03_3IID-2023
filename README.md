@@ -2,4 +2,4 @@
 
 Daniel Niedzielski w67261 GL03 
 
-Proszę utworzyć w bazie danych w MySQL bazę o nazwie "quiz_db", w celu poprawnego działania projektu
+Proszę bazę danych o nazwie "quiz_db" w MySQL, w celu poprawnego działania projektu
